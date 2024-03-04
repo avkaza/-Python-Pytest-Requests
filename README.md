@@ -1,4 +1,4 @@
-:snake: # Python-Pytest-Requests
+# Python-Pytest-Requests :snake:
 
 Сайт игры: https://pokemonbattle.me/
 
