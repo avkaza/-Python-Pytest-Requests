@@ -4,7 +4,7 @@ import pytest
 HOST = 'https://pokemonbattle.me:9104'
 
 # Проверяем, что ответ запроса get/pokemons приходит с кодом 200
-def test_status_code();
+def test_status_code():
     response = requests.get(url= f'{HOST}/pokemons')
     assert response.status_code == 200
 
